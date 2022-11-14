@@ -1,10 +1,10 @@
 ### Hello World! 👋
 
 ## Current Favourites
-- 🦀 Rust        
-- 🐿️ Go         
-- 🐍 Python     
-- 🕸️ JavaScript 
+🦀 Rust        
+🐿️ Go         
+🐍 Python     
+🕸️ JavaScript 
 
 <!--
 **jl1608/jl1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
