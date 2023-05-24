@@ -1,7 +1,8 @@
 ### Hello World! 👋
 
 ## Current Favourites
-🦀 Rust        
+🦀 Rust
+🐦 Swift
 🐿️ Go         
 🐍 Python     
 🕸️ JavaScript 
