@@ -2,9 +2,13 @@
 
 ## Current Favourites
 🦀 Rust
+
 🐦 Swift
+
 🐿️ Go         
+
 🐍 Python     
+
 🕸️ JavaScript 
 
 <!--
