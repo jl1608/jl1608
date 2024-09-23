@@ -2,6 +2,10 @@
 
 Strong interest in generative and procedural environment simulations 🌳
 
+Currently a Data Scientist looking to improve their Machine Learning ability in Python 📊
+
+Wanting to branch out to Scala and Julia to form a more functional-paradigm and computationally faster machine learning package 
+
 <div align="left">
   <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
   <img src=https://img.shields.io/badge/c++-4A7343?style=for-the-badge&logo=c%2B%2B&logoColor=white />
