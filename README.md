@@ -2,11 +2,11 @@
 
 <div align="left">
   <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
-  <img src=https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=orange />
+  <img src=https://img.shields.io/badge/c++-4A7343?style=for-the-badge&logo=c%2B%2B&logoColor=white />
   <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
   <img src=https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white />
-  <img src=https://img.shields.io/badge/c++-4A7343?style=for-the-badge&logo=c%2B%2B&logoColor=white />
-  </div>
+  <img src=https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=orange />
+</div>
 
 <!--
 🦀 Rust
