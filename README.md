@@ -2,6 +2,8 @@
 
 Strong interest in generative and procedural environment simulations 🌳
 
+<img src="https://images.thoughtbot.com/codecation/gol.gif" width="100px" height="100px" />
+
 Currently a Data Scientist looking to improve their Machine Learning ability in Python 📊
 
 Wanting to branch out to Scala and Julia to form a more functional-paradigm and computationally faster machine learning package 
