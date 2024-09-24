@@ -2,7 +2,10 @@
 
 Strong interest in generative and procedural environment simulations 🌳
 
-<img src="https://images.thoughtbot.com/codecation/gol.gif" width="100px" height="100px" />
+<span>
+  <img src="https://images.thoughtbot.com/codecation/gol.gif" width="100px" height="100px" />
+  <img src="https://preview.redd.it/fb8mbdp9hd751.png?width=960&crop=smart&auto=webp&s=4f80aa91c81d28b7fc0cf70525c8c38fc23e2f37" width="150px" height="100px" />
+</span>
 
 Currently a Data Scientist looking to improve their Machine Learning ability in Python 📊
 
