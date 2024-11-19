@@ -7,10 +7,6 @@ Strong interest in generative and procedural environment simulations 🌳
   <img src="https://preview.redd.it/fb8mbdp9hd751.png?width=960&crop=smart&auto=webp&s=4f80aa91c81d28b7fc0cf70525c8c38fc23e2f37" width="150px" height="100px" />
 </span>
 
-Currently a Data Scientist looking to improve their Machine Learning ability in Python 📊
-
-Wanting to branch out to Scala and Julia to form a more functional-paradigm and computationally faster machine learning package 
-
 <div align="left">
   <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue />
   <img src=https://img.shields.io/badge/c++-4A7343?style=for-the-badge&logo=c%2B%2B&logoColor=white />
